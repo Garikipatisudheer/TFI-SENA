@@ -1,0 +1,5 @@
+{
+  "name": "Tollywood Movie Showcase",
+  "description": "A visually appealing web application that displays a curated list of Tollywood movie posters and their ratings in a responsive grid layout.",
+  "requestFramePermissions": []
+}
